@@ -29,9 +29,9 @@ Acredito que os melhores resultados vêm da colaboração e da criatividade. Meu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 📊 Minhas Estatísticas
+## 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub de Kevin](https://github-readme-stats.vercel.app/api?username=Kevinrehem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de Kevin](https://github-readme-stats.vercel.app/api?username=Kevinrehem&show_icons=true&theme=dracula&count_private=true)
 ![Linguagens Mais Usadas por Kevin](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrehem&layout=compact&langs_count=7&theme=dracula)
 
 ## 💡 Projetos em Destaque
