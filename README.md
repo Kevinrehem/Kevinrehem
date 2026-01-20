@@ -39,18 +39,20 @@ Acredito que os melhores resultados vêm da colaboração e da criatividade. Meu
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | **[GCMEE](https://github.com/Kevinrehem/GCMEE_-_Gerenciador_e_Controlador_de_Manutencao_em_Equipamentos_Eletronicos)** | Gerenciador de ordens de serviço (O.S.) para equipamentos eletrônicos. | `Spring Boot` `React` `PostgreSQL` |
-| **[Quiz Show Asilo](https://github.com/allysson-assuncao/quiz-show-asilo)** | Um jogo de quiz interativo (estilo "Show do Milhão") adaptado para idosos. | `React` `Vite` `TypeScript` |
+| **[Quiz Show Asilo](https://github.com/allysson-assuncao/quiz-show-asilo)** | Um jogo de quiz interativo adaptado para idosos (estilo "Show do Milhão"). | `React` `Vite` `TypeScript` |
+| **[Simulador Filesystem](https://github.com/RhuanAzevedo/simulador-filesystem)** | Simulação de sistema de arquivos e métodos de alocação de memória. | `C++` |
+| **[Escalonamento Hospitalar](https://github.com/Kevinrehem/Simulador-de-Escalonamento-Fila-Hospital)** | Simulador de algoritmos de escalonamento aplicados a uma triagem médica. | `Java` |
 | **[VideoProcessing](https://github.com/Kevinrehem/VideoProcessing)** | Estudo sobre processamento paralelo para tratamento e correção de dados em vídeos. | `Java` |
-| **[esof1-project](https://github.com/allysson-assuncao/esof1-project)** | Projeto da disciplina de Engenharia de Software I, focado na prática de métodos de desenvolvimento ágil. | `TypeScript` `Java` |
+| **[esof1-project](https://github.com/allysson-assuncao/esof1-project)** | Prática de métodos de desenvolvimento ágil (Engenharia de Software I). | `TypeScript` `Java` |
 
 ## 🌱 Meus Próximos Passos
 
 Meu foco atual é aprofundar meus conhecimentos na criação de soluções inteligentes, explorando as seguintes tecnologias:
 
--   **Integração com LLMs:** Para desenvolver sistemas de atendimento automatizados.
--   **N8N:** Como ferramenta de automação e workflow.
--   **Docker:** Para orquestração de serviços em containers.
--   **Python:** Como linguagem principal para scripts e integrações.
+-   **Integração com LLMs:** Para desenvolver sistemas de atendimento automatizados.
+-   **N8N:** Como ferramenta de automação e workflow.
+-   **Docker:** Para orquestração de serviços em containers.
+-   **Python:** Como linguagem principal para scripts e integrações.
 
 ## 📫 Conecte-se comigo!
 
